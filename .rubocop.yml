@@ -1,0 +1,16 @@
+AllCops:
+  NewCops: disable
+  SuggestExtensions: false
+  Exclude:
+    - 'bin/**'
+    - 'config/**/*'
+    - 'db/**/*'
+    - 'test/factories/**/*'
+
+
+
+Style/Documentation:
+  Enabled: false
+Metrics/MethodLength:
+  Max: 30
+  

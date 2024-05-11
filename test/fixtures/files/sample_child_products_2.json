@@ -1,0 +1,4848 @@
+{
+    "numberOfResults": 10,
+    "items": [
+      {
+        "asin": "B0CMT38L7V",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "USB C Cable",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575994211",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575994211",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "512GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Blue",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 512,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 512GB, Blue - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:38.788Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/31bJqyWQfFL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/31bJqyWQfFL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/51-RPOw693L.jpg",
+                "height": 1200,
+                "width": 1200
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31bJqyWQfFL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31bJqyWQfFL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/51-RPOw693L.jpg",
+                "height": 1200,
+                "width": 1200
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31bJqyWQfFL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31bJqyWQfFL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/51-RPOw693L.jpg",
+                "height": 1200,
+                "width": 1200
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMSXPVPS",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575993740",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575993740",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "128GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Green",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 128,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 128GB, Green - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:03.762Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/51HaS1fqwzL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/51t-x+5kdXL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31zuTMFVi3L.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51B5HMQa9ML.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51B5HMQa9ML._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/615pMby2EbL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51mDXxB7OWL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51mDXxB7OWL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/61UxXLBnZkL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT05",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT05",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/51HaS1fqwzL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/51t-x+5kdXL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/31zuTMFVi3L.jpg",
+                "height": 1000,
+                "width": 1000
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMSZPLXD",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575993993",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575993993",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "256GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Green",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 256,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 256GB, Green - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:03.448Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/51HaS1fqwzL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/51t-x+5kdXL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31zuTMFVi3L.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/615pMby2EbL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51B5HMQa9ML.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51B5HMQa9ML._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/61UxXLBnZkL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51mDXxB7OWL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51mDXxB7OWL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT05",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT05",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/51HaS1fqwzL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/51t-x+5kdXL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/31zuTMFVi3L.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMT3DX7F",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "USB C Cable",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575994242",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575994242",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "512GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Green",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 512,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 512GB, Green - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:02.269Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/51HaS1fqwzL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/51t-x+5kdXL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31zuTMFVi3L.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51B5HMQa9ML.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51B5HMQa9ML._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/615pMby2EbL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51mDXxB7OWL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51mDXxB7OWL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/61UxXLBnZkL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT05",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT05",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/416+-QvkXQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/51HaS1fqwzL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/31ZK2J6YvxL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/51t-x+5kdXL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/21EgmYHCM9L._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/31zuTMFVi3L.jpg",
+                "height": 1000,
+                "width": 1000
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMSXCB43",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575993726",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575993726",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "128GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Pink",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 128,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_network_technology": [
+            {
+              "value": "wifi",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 128GB, Pink - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:59.961Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/61E3eOImi2L.jpg",
+                "height": 1200,
+                "width": 1200
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/61E3eOImi2L.jpg",
+                "height": 1200,
+                "width": 1200
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/61E3eOImi2L.jpg",
+                "height": 1200,
+                "width": 1200
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMSZH3YK",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Charging Cable",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575993979",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575993979",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "256GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Pink",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 256,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_network_technology": [
+            {
+              "value": "wifi",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 256GB, Pink - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:04.619Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41PlMLMOdeL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41PlMLMOdeL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/51cWm-u5u0L.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/317KCh-1AZL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/317KCh-1AZL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/51-CSMFUG0L.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21hxv3zoBQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21hxv3zoBQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31ZqRvykSaL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51B5HMQa9ML.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51B5HMQa9ML._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/615pMby2EbL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51mDXxB7OWL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51mDXxB7OWL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/61UxXLBnZkL.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT05",
+                "link": "https://m.media-amazon.com/images/I/41PlMLMOdeL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT05",
+                "link": "https://m.media-amazon.com/images/I/41PlMLMOdeL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/41PlMLMOdeL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/41PlMLMOdeL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT06",
+                "link": "https://m.media-amazon.com/images/I/51cWm-u5u0L.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/317KCh-1AZL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/317KCh-1AZL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT07",
+                "link": "https://m.media-amazon.com/images/I/51-CSMFUG0L.jpg",
+                "height": 1000,
+                "width": 1000
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/21hxv3zoBQL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/21hxv3zoBQL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT08",
+                "link": "https://m.media-amazon.com/images/I/31ZqRvykSaL.jpg",
+                "height": 1000,
+                "width": 1000
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMT3MQ2Q",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "USB C Cable",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575994228",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575994228",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "512GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Pink",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 512,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 512GB, Pink - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:34.944Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/61E3eOImi2L.jpg",
+                "height": 1200,
+                "width": 1200
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/61E3eOImi2L.jpg",
+                "height": 1200,
+                "width": 1200
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL.jpg",
+                "height": 500,
+                "width": 500
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/41iqh-3XOVL._SL75_.jpg",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/61E3eOImi2L.jpg",
+                "height": 1200,
+                "width": 1200
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMSY86JR",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575993733",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575993733",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "128GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Yellow",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 128,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_network_technology": [
+            {
+              "value": "wifi",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 128GB, Yellow - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:01:21.210Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41JshlwHdcL.jpg",
+                "height": 500,
+                "width": 381
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41JshlwHdcL._SL75_.jpg",
+                "height": 75,
+                "width": 57
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/51ZMZLOGtPL.jpg",
+                "height": 1000,
+                "width": 762
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/312kH5jBHjL.jpg",
+                "height": 500,
+                "width": 248
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/312kH5jBHjL._SL75_.jpg",
+                "height": 75,
+                "width": 37
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/51GQEEmOV1L.jpg",
+                "height": 1000,
+                "width": 495
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21-lWBkv4lL.jpg",
+                "height": 500,
+                "width": 177
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21-lWBkv4lL._SL75_.jpg",
+                "height": 75,
+                "width": 27
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31IOAt9hmCL.jpg",
+                "height": 1000,
+                "width": 353
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/31DxzIHtqPL.jpg",
+                "height": 290,
+                "width": 500
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/31DxzIHtqPL._SL75_.jpg",
+                "height": 44,
+                "width": 75
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51V5SMlEOIL.jpg",
+                "height": 580,
+                "width": 1000
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/413FefXg3LL.jpg",
+                "height": 340,
+                "width": 500
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/413FefXg3LL._SL75_.jpg",
+                "height": 51,
+                "width": 75
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51ZI4pMTaKL.jpg",
+                "height": 679,
+                "width": 1000
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMT623FS",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575993986",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575993986",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "256GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Yellow",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 256,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 256GB, Yellow - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:06.196Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/51ZMZLOGtPL.jpg",
+                "height": 1000,
+                "width": 762
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41JshlwHdcL.jpg",
+                "height": 500,
+                "width": 381
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41JshlwHdcL._SL75_.jpg",
+                "height": 75,
+                "width": 57
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/51GQEEmOV1L.jpg",
+                "height": 1000,
+                "width": 495
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/312kH5jBHjL.jpg",
+                "height": 500,
+                "width": 248
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/312kH5jBHjL._SL75_.jpg",
+                "height": 75,
+                "width": 37
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31IOAt9hmCL.jpg",
+                "height": 1000,
+                "width": 353
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21-lWBkv4lL.jpg",
+                "height": 500,
+                "width": 177
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21-lWBkv4lL._SL75_.jpg",
+                "height": 75,
+                "width": 27
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51V5SMlEOIL.jpg",
+                "height": 580,
+                "width": 1000
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/31DxzIHtqPL.jpg",
+                "height": 290,
+                "width": 500
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/31DxzIHtqPL._SL75_.jpg",
+                "height": 44,
+                "width": 75
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51ZI4pMTaKL.jpg",
+                "height": 679,
+                "width": 1000
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/413FefXg3LL.jpg",
+                "height": 340,
+                "width": 500
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/413FefXg3LL._SL75_.jpg",
+                "height": 51,
+                "width": 75
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "asin": "B0CMT2QXCJ",
+        "attributes": {
+          "connectivity_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "Wireless",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "cellular_technology": [
+            {
+              "language_tag": "en_US",
+              "value": "5G",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "included_components": [
+            {
+              "language_tag": "en_US",
+              "value": "Adapter",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "USB C Cable",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_name": [
+            {
+              "language_tag": "en_US",
+              "value": "iPhone 15 Plus (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "hazmat": [
+            {
+              "aspect": "proper_shipping_name",
+              "value": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT *REFURBISHED*",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "united_nations_regulatory_id",
+              "value": "UN3481",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "regulatory_packing_group",
+              "value": "II",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "transportation_regulatory_class",
+              "value": "9",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "AU_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "BR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "CN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "DE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "EG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ES_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "FR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "GB_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IN_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "IT_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "JP_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "MX_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "NL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "PL_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SE_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "SG_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "TR_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "US_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "aspect": "exception",
+              "value": "ZA_SmallLithiumIonBatteryStandalone",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "connector_type": [
+            {
+              "language_tag": "en_US",
+              "value": "USB Type C",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "biometric_security_feature": [
+            {
+              "language_tag": "en_US",
+              "value": "Face Recognition",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "externally_assigned_product_identifier": [
+            {
+              "value": "753575994235",
+              "type": "upc",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "value": "0753575994235",
+              "type": "ean",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "service_provider": [
+            {
+              "language_tag": "en_US",
+              "value": "GSM Carriers",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "size": [
+            {
+              "language_tag": "en_US",
+              "value": "512GB",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "part_number": [
+            {
+              "value": "A2847",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "color": [
+            {
+              "language_tag": "en_US",
+              "value": "Yellow",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "water_resistance_level": [
+            {
+              "value": "not_water_resistant",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "shooting_modes": [
+            {
+              "language_tag": "en_US",
+              "value": "Portrait",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "battery": [
+            {
+              "description": [
+                {
+                  "language_tag": "en_US",
+                  "value": "Lithium-Ion"
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "manufacturer": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "wireless_provider": [
+            {
+              "value": "3",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "operating_system": [
+            {
+              "language_tag": "en_US",
+              "value": "iOS",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "memory_storage_capacity": [
+            {
+              "unit": "GB",
+              "value": 512,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "display": [
+            {
+              "size": [
+                {
+                  "unit": "inches",
+                  "value": 6.7
+                }
+              ],
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "model_year": [
+            {
+              "value": 2019,
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus, 512GB, Yellow - GSM Carriers (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-07T01:00:06.835Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "form_factor": [
+            {
+              "language_tag": "en_US",
+              "value": "Bar",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41X1-MJT6EL.jpg",
+                "height": 500,
+                "width": 381
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/41X1-MJT6EL._SL75_.jpg",
+                "height": 75,
+                "width": 57
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/61lfbvbksKL.jpg",
+                "height": 1146,
+                "width": 873
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31u2fYAZVgL.jpg",
+                "height": 500,
+                "width": 248
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31u2fYAZVgL._SL75_.jpg",
+                "height": 75,
+                "width": 37
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/61gyTczQhfL.jpg",
+                "height": 1421,
+                "width": 704
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/2144Vs3A3jL.jpg",
+                "height": 500,
+                "width": 176
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/2144Vs3A3jL._SL75_.jpg",
+                "height": 75,
+                "width": 26
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/51WwqPlVd3L.jpg",
+                "height": 1684,
+                "width": 594
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "parentAsins": [
+                  "B0CMYK2MFZ"
+                ],
+                "type": "VARIATION"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

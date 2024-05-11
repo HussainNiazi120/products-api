@@ -1,0 +1,109 @@
+{
+  "payload": {
+    "ASIN": "B075DBHGT6",
+    "status": "Success",
+    "ItemCondition": "New",
+    "Identifier": {
+      "MarketplaceId": "ATVPDKIKX0DER",
+      "ItemCondition": "New",
+      "ASIN": "B075DBHGT6"
+    },
+    "Summary": {
+      "LowestPrices": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Merchant",
+          "LandedPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 179.85
+          },
+          "ListingPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 169.95
+          },
+          "Shipping": {
+            "CurrencyCode": "USD",
+            "Amount": 9.9
+          }
+        }
+      ],
+      "BuyBoxPrices": [
+        {
+          "condition": "New",
+          "LandedPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 179.85
+          },
+          "ListingPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 169.95
+          },
+          "Shipping": {
+            "CurrencyCode": "USD",
+            "Amount": 9.9
+          }
+        }
+      ],
+      "NumberOfOffers": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Merchant",
+          "OfferCount": 1
+        }
+      ],
+      "BuyBoxEligibleOffers": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Merchant",
+          "OfferCount": 1
+        }
+      ],
+      "SalesRankings": [
+        {
+          "ProductCategoryId": "art_and_craft_supply_display_on_website",
+          "Rank": 112361
+        },
+        {
+          "ProductCategoryId": "12898481",
+          "Rank": 11
+        }
+      ],
+      "ListPrice": {
+        "CurrencyCode": "USD",
+        "Amount": 259.9
+      },
+      "TotalOfferCount": 1
+    },
+    "Offers": [
+      {
+        "Shipping": {
+          "CurrencyCode": "USD",
+          "Amount": 9.9
+        },
+        "ListingPrice": {
+          "CurrencyCode": "USD",
+          "Amount": 169.95
+        },
+        "ShippingTime": {
+          "maximumHours": 24,
+          "minimumHours": 24,
+          "availabilityType": "NOW"
+        },
+        "SellerFeedbackRating": {
+          "FeedbackCount": 531,
+          "SellerPositiveFeedbackRating": 85
+        },
+        "ShipsFrom": {
+          "State": "IL",
+          "Country": "US"
+        },
+        "SubCondition": "new",
+        "SellerId": "A1S90NHFXITQ7O",
+        "IsFeaturedMerchant": true,
+        "IsBuyBoxWinner": true,
+        "IsFulfilledByAmazon": false
+      }
+    ],
+    "marketplaceId": "ATVPDKIKX0DER"
+  }
+}

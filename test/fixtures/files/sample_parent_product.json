@@ -1,0 +1,223 @@
+{
+    "numberOfResults": 1,
+    "items": [
+      {
+        "asin": "B0CMYK2MFZ",
+        "attributes": {
+          "variation_theme": [
+            {
+              "name": "SERVICE_PROVIDER/COLOR_NAME/SIZE_NAME",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_name": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple iPhone 15 Plus - Parent (Renewed)",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "item_type_keyword": [
+            {
+              "value": "cell-phones",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_site_launch_date": [
+            {
+              "value": "2023-11-08T18:23:25.816Z",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "bullet_point": [
+            {
+              "language_tag": "en_US",
+              "value": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Emergency SOS via satellite. Crash Detection. Roadside Assistance via satellite",
+              "marketplace_id": "ATVPDKIKX0DER"
+            },
+            {
+              "language_tag": "en_US",
+              "value": "Up to 26 hours video playback. USB C, Supports USB 2. Face ID",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "product_description": [
+            {
+              "language_tag": "en_US",
+              "value": "The iPhone 15 Plus has a 6.7 inch all-screen Super Retina XDR display with the Dynamic Island. The back is color-infused glass, and there is a contoured-edge anodized aluminum band around the frame. The side button is on the right side of the device. There are two cameras on the back: Ultra Wide and Main. In the United States, there is no SIM tray. In other countries or regions, there is a SIM tray on the left side that holds a fourth form factor (4FF) nano-SIM card. On the bottom there is a USB-C connector for charging and transferring data.",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ],
+          "brand": [
+            {
+              "language_tag": "en_US",
+              "value": "Apple",
+              "marketplace_id": "ATVPDKIKX0DER"
+            }
+          ]
+        },
+        "images": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "images": [
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/31R4GM35a5L.jpg",
+                "height": 500,
+                "width": 381
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/31R4GM35a5L._SL75_.jpg",
+                "height": 75,
+                "width": 57
+              },
+              {
+                "variant": "MAIN",
+                "link": "https://m.media-amazon.com/images/I/51PtFHUPjBL.jpg",
+                "height": 1000,
+                "width": 762
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31nMPT+iqwL.jpg",
+                "height": 500,
+                "width": 248
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/31nMPT+iqwL._SL75_.jpg",
+                "height": 75,
+                "width": 37
+              },
+              {
+                "variant": "PT01",
+                "link": "https://m.media-amazon.com/images/I/51-QK8D-hcL.jpg",
+                "height": 1000,
+                "width": 495
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21KRcX3JuiL.jpg",
+                "height": 500,
+                "width": 177
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/21KRcX3JuiL._SL75_.jpg",
+                "height": 75,
+                "width": 27
+              },
+              {
+                "variant": "PT02",
+                "link": "https://m.media-amazon.com/images/I/31mT4UNhnJL.jpg",
+                "height": 1000,
+                "width": 353
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/31DxzIHtqPL.jpg",
+                "height": 290,
+                "width": 500
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/31DxzIHtqPL._SL75_.jpg",
+                "height": 44,
+                "width": 75
+              },
+              {
+                "variant": "PT03",
+                "link": "https://m.media-amazon.com/images/I/51V5SMlEOIL.jpg",
+                "height": 580,
+                "width": 1000
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/41qMZTIn39L.jpg",
+                "height": 500,
+                "width": 419
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/41qMZTIn39L._SL75_.jpg",
+                "height": 75,
+                "width": 63
+              },
+              {
+                "variant": "PT04",
+                "link": "https://m.media-amazon.com/images/I/51ODVcuP6rL.jpg",
+                "height": 1000,
+                "width": 838
+              }
+            ]
+          }
+        ],
+        "relationships": [
+          {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "relationships": [
+              {
+                "childAsins": [
+                  "B0CMT86BZ7",
+                  "B0CMT611Z5",
+                  "B0CMT61M5X",
+                  "B0CMT44L1N",
+                  "B0CMSYCSTD",
+                  "B0CMSY4MVZ",
+                  "B0CMSZ8TSK",
+                  "B0CMSVPRPC",
+                  "B0CMT2RH6T",
+                  "B0CMSZ7XB6",
+                  "B0CMSYJGQS",
+                  "B0CMT2R5CM",
+                  "B0CMTB5N7Y",
+                  "B0CMT4WGB8",
+                  "B0CMT5ZVV2",
+                  "B0CMSX9XQD",
+                  "B0CMSZTP9G",
+                  "B0CMSTSMFH",
+                  "B0CMT44WQB",
+                  "B0CMT2QMMS",
+                  "B0CMT38L7V",
+                  "B0CMSXPVPS",
+                  "B0CMSZPLXD",
+                  "B0CMT3DX7F",
+                  "B0CMSXCB43",
+                  "B0CMSZH3YK",
+                  "B0CMT3MQ2Q",
+                  "B0CMSY86JR",
+                  "B0CMT623FS",
+                  "B0CMT2QXCJ"
+                ],
+                "type": "VARIATION",
+                "variationTheme": {
+                  "attributes": [
+                    "color",
+                    "service_provider",
+                    "size"
+                  ],
+                  "theme": "SERVICE_PROVIDER/COLOR_NAME/SIZE_NAME"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
