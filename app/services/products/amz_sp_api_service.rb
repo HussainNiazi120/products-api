@@ -48,8 +48,8 @@ module Products
         Rails.application.credentials.dig(:amazon_sp_api, :refresh_token),
         Rails.application.credentials.dig(:amazon_sp_api, :client_id),
         Rails.application.credentials.dig(:amazon_sp_api, :client_secret),
-        Rails.application.credentials.dig(:amazon_sp_api, :aws_access_key_id),
-        Rails.application.credentials.dig(:amazon_sp_api, :aws_secret_access_key)
+        Rails.application.credentials.dig(:amazon_sp_api, :aws_access_key_id) || ENV['AWS_ACCESS_KEY_ID'],
+        Rails.application.credentials.dig(:amazon_sp_api, :aws_secret_access_key) || ENV['AWS_SECRET_ACCESS_KEY']
       ]
     end
 
