@@ -12,10 +12,6 @@ This API acts as a proxy between the Amazon Selling Partner API (SP API) and sho
  - [Ruby Version](#ruby-version)
  - [System Dependencies](#system-dependencies)
  - [Configuration](#configuration)
- - [Database Setup](#database-setup)
- - [Running the Test Suite](#running-the-test-suite)
- - [Services](#services)
- - [Deployment Instructions](#deployment-instructions)
 
 ## Ruby Version
 ruby-3.3.1
