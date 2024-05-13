@@ -22,7 +22,7 @@ jobs:
       - name: Deploy changes
         run: |
           # Connect to the server via SSH and pull changes
-          ssh ubuntu@208.113.200.130 'cd /var/www/products-api && git pull origin main'
+          ssh ubuntu@208.113.200.130 'cd /var/www/products-api && git pull origin main && bundle install && bundle exec rake db:migrate && sudo service nginx restart'
 
       - name: Cleanup SSH keys
         run: |
