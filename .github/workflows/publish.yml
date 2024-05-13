@@ -80,7 +80,8 @@ jobs:
         run: |
           # Connect to the server via SSH and pull changes
           ssh -i ~/.ssh/deploy_key.pem ubuntu@208.113.200.130 \
-          'cd /var/www/products-api && \
+          'source $HOME/.asdf/asdf.sh && \
+          cd /var/www/products-api && \
           git pull origin main && \
           bundle install && \
           RAILS_ENV=production bundle exec rake db:migrate && \
