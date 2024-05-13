@@ -27,6 +27,7 @@ jobs:
 
       - name: Setup SSH keys
         run: |
+          mkdir -p ~/.ssh
           echo "$SHOPUS_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -H 208.113.200.130 >> ~/.ssh/known_hosts
