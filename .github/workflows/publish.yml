@@ -24,6 +24,32 @@ jobs:
         ports:
           - 5432:5432
 
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install PostgreSQL client
+        run: |
+          apt-get update
+          apt-get install --yes postgresql-client
+      - name: Install dependencies
+        run: bundle install
+      - name: Setup database
+        env:
+          PGHOST: postgres
+          PGUSER: postgres
+          PGPASSWORD: postgres
+          RAILS_ENV: test
+        run: |
+          bin/rails db:setup
+      - name: Run tests
+        env:
+          PGHOST: postgres
+          PGUSER: postgres
+          PGPASSWORD: postgres
+          AWS_ACCESS_KEY_ID: XXX
+          AWS_SECRET_ACCESS_KEY: XXX
+          RAILS_ENV: test
+        run: bundle exec rails test
+
   rubocop:
     runs-on: ubuntu-latest
     container:
