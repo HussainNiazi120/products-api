@@ -1,0 +1,30 @@
+name: Publish to Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    needs: [rubocop, tests]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup SSH keys
+        run: |
+          echo "$SHOPUS_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H 208.113.200.130 >> ~/.ssh/known_hosts
+
+      - name: Deploy changes
+        run: |
+          # Connect to the server via SSH and pull changes
+          ssh ubuntu@208.113.200.130 'cd /var/www/products-api && git pull origin main'
+
+      - name: Cleanup SSH keys
+        run: |
+          rm ~/.ssh/id_rsa
+          rm ~/.ssh/known_hosts
