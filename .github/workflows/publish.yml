@@ -1,0 +1,93 @@
+name: Publish to Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    container:
+      image: ruby:3.3.1
+
+    services:
+      postgres:
+        image: postgres
+        env:
+          POSTGRES_PASSWORD: postgres
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports:
+          - 5432:5432
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install PostgreSQL client
+        run: |
+          apt-get update
+          apt-get install --yes postgresql-client
+      - name: Install dependencies
+        run: bundle install
+      - name: Setup database
+        env:
+          PGHOST: postgres
+          PGUSER: postgres
+          PGPASSWORD: postgres
+          RAILS_ENV: test
+        run: |
+          bin/rails db:setup
+      - name: Run tests
+        env:
+          PGHOST: postgres
+          PGUSER: postgres
+          PGPASSWORD: postgres
+          AWS_ACCESS_KEY_ID: XXX
+          AWS_SECRET_ACCESS_KEY: XXX
+          RAILS_ENV: test
+        run: bundle exec rails test
+
+  rubocop:
+    runs-on: ubuntu-latest
+    container:
+      image: ruby:3.3.1
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: bundle install
+      - name: Rubocop
+        run: rubocop
+
+  deploy:
+    needs: [test, rubocop]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup SSH keys
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SHOPUS_KEY }}" > ~/.ssh/deploy_key.pem
+          chmod 600 ~/.ssh/deploy_key.pem
+          ssh-keyscan -H 208.113.200.130 >> ~/.ssh/known_hosts
+
+      - name: Deploy changes
+        run: |
+          # Connect to the server via SSH and pull changes
+          ssh -i ~/.ssh/deploy_key.pem ubuntu@208.113.200.130 \
+          'source $HOME/.asdf/asdf.sh && \
+          cd /var/www/products-api && \
+          git pull origin main && \
+          bundle install && \
+          RAILS_ENV=production bundle exec rake db:migrate && \
+          sudo service nginx restart'
+
+      - name: Cleanup SSH keys
+        run: |
+          rm ~/.ssh/deploy_key.pem
+          rm ~/.ssh/known_hosts
