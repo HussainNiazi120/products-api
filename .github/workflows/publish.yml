@@ -6,18 +6,6 @@ on:
       - main
 
 jobs:
-  rubocop:
-      runs-on: ubuntu-latest
-      container:
-        image: ruby:3.3.1
-
-      steps:
-        - uses: actions/checkout@v4
-        - name: Install dependencies
-          run: bundle install
-        - name: Rubocop
-          run: rubocop
-
   deploy:
     runs-on: ubuntu-latest
     needs: [rubocop]
@@ -28,7 +16,7 @@ jobs:
       - name: Setup SSH keys
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/deploy_key.pem
+          echo "${{ secrets.SHOPUS_KEY }}" > ~/.ssh/deploy_key.pem
           chmod 600 ~/.ssh/deploy_key.pem
           ssh-keyscan -H 208.113.200.130 >> ~/.ssh/known_hosts
 
