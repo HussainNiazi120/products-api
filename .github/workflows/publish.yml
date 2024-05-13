@@ -28,14 +28,14 @@ jobs:
       - name: Setup SSH keys
         run: |
           mkdir -p ~/.ssh
-          echo "$SHOPUS_KEY" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
+          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/deploy_key.pem
+          chmod 600 ~/.ssh/deploy_key.pem
           ssh-keyscan -H 208.113.200.130 >> ~/.ssh/known_hosts
 
       - name: Deploy changes
         run: |
           # Connect to the server via SSH and pull changes
-          ssh ubuntu@208.113.200.130 'cd /var/www/products-api && git pull origin main && bundle install && bundle exec rake db:migrate && sudo service nginx restart'
+          ssh -i ~/.ssh/deploy_key.pem ubuntu@208.113.200.130 'cd /var/www/products-api && git pull origin main && bundle install && bundle exec rake db:migrate && sudo service nginx restart'
 
       - name: Cleanup SSH keys
         run: |
