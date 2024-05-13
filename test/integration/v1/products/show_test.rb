@@ -81,5 +81,14 @@ module Products
       assert_equal 7900, res['price']
       assert res['is_prime']
     end
+
+    test 'return 404 if product not found' do
+      get product_url('0')
+
+      assert_response :not_found
+
+      res = response.parsed_body
+      assert_equal 'Product with asin: 0 not found', res['error']
+    end
   end
 end
