@@ -27,5 +27,5 @@ jobs:
 
       - name: Cleanup SSH keys
         run: |
-          rm ~/.ssh/id_rsa
+          rm ~/.ssh/deploy_key.pem
           rm ~/.ssh/known_hosts
