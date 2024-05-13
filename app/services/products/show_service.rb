@@ -2,11 +2,11 @@
 
 module Products
   class ShowService < AmzSpApiService
-    class MissingAsinError < StandardError; end
-    class ProductNotFoundError < StandardError; end
+    class MissingAsin < StandardError; end
+    class ProductNotFound < StandardError; end
 
     def initialize(asin)
-      raise MissingAsinError if asin.blank?
+      raise MissingAsin if asin.blank?
 
       @asin = asin
 
@@ -20,7 +20,7 @@ module Products
 
       product
     rescue ActiveRecord::RecordNotFound
-      raise ProductNotFoundError
+      raise ProductNotFound
     end
   end
 end

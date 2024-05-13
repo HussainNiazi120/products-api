@@ -3,8 +3,7 @@
 module V1
   class ProductsController < ApplicationController
     rescue_from Products::SearchService::MissingKeywords, with: :missing_keywords
-    rescue_from Products::VariationsService::MissingAsin, with: :missing_asin
-    rescue_from Products::VariationsService::ProductNotFound, with: :product_not_found
+    rescue_from Products::ShowService::ProductNotFound, with: :product_not_found
     rescue_from Products::VariationsService::VariationsNotLoaded, with: :variations_not_loaded
 
     def index
@@ -30,10 +29,6 @@ module V1
 
     def missing_keywords
       render json: { error: 'Missing keywords' }, status: :bad_request
-    end
-
-    def missing_asin
-      render json: { error: 'Missing ASIN' }, status: :bad_request
     end
 
     def product_not_found
