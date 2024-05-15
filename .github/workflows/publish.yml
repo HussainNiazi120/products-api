@@ -85,6 +85,7 @@ jobs:
           git pull origin main && \
           bundle install && \
           RAILS_ENV=production bundle exec rake db:migrate && \
+          sudo service sidekiq restart && \
           sudo service nginx restart'
 
       - name: Cleanup SSH keys
