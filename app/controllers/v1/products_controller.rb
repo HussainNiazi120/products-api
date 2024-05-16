@@ -4,7 +4,6 @@ module V1
   class ProductsController < ApplicationController
     rescue_from Products::SearchService::MissingKeywords, with: :missing_keywords
     rescue_from Products::ShowService::ProductNotFound, with: :product_not_found
-    rescue_from Products::VariationsService::VariationsNotLoaded, with: :variations_not_loaded
 
     def index
       products = Products::SearchService.call(search_params[:keywords])
@@ -33,10 +32,6 @@ module V1
 
     def product_not_found
       render json: { error: "Product with asin: #{params.require(:asin)} not found" }, status: :not_found
-    end
-
-    def variations_not_loaded
-      render json: { message: 'Processing request. Check back in a few seconds' }, status: :accepted
     end
   end
 end
