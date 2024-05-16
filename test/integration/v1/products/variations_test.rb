@@ -27,12 +27,12 @@ module Products
         end
       end
 
-      assert_response :accepted
+      assert_response :success
 
-      assert_equal 'Processing request. Check back in a few seconds', response.parsed_body['message']
       product.reload
       assert_equal 30, product.variation_asins.size
       assert_equal 30, Product.where(parent_asin: 'B0CMYK2MFZ').size
+      assert_equal 30, response.parsed_body.count
     end
 
     test 'returns variations when they exist in database' do
