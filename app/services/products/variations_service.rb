@@ -4,7 +4,6 @@ module Products
   class VariationsService < AmzSpApiService
     class MissingAsin < StandardError; end
     class ProductNotFound < StandardError; end
-    class VariationsNotLoaded < StandardError; end
 
     def initialize(asin)
       raise MissingAsin if asin.blank?
@@ -17,13 +16,13 @@ module Products
     def call
       product = Product.find_by!(asin: @asin)
       return [] unless product.parent_asin.present?
-      return product.variation_asins if product.variation_asins.present?
+      return product.variation_asins if product.variation_asins.present? && (product.product_updated_at.nil? || product.product_updated_at < 1.week.ago)
 
       child_asins = find_child_asins(product)
 
       GetChildProductsJob.perform_later(child_asins)
 
-      raise VariationsNotLoaded
+      child_asins
     rescue ActiveRecord::RecordNotFound
       raise ProductNotFound
     end
