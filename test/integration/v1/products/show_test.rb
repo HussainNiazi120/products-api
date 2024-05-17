@@ -82,6 +82,23 @@ module Products
       assert res['is_prime']
     end
 
+    test 'return product when price offers unavailable' do
+      product = create(:product, price: nil, price_updated_at: nil)
+
+      stub_show_request_with_no_offers
+
+      perform_enqueued_jobs do
+        get product_url(product.asin)
+      end
+
+      assert_response :success
+
+      res = response.parsed_body
+      assert_equal product.asin, res['asin']
+      assert_not res['price']
+      assert_not res['is_prime']
+    end
+
     test 'return 404 if product not found' do
       get product_url('0')
 

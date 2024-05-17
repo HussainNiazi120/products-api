@@ -24,16 +24,17 @@ module Products
     private
 
     def find_offer(offers)
-      amazon_new = offers.find { |offer| offer['condition'] == 'new' && offer['fulfillmentChannel'] == 'Amazon' }
-      non_amazon_new = offers.find { |offer| offer['condition'] == 'new' && offer['fulfillmentChannel'] == 'Merchant' }
+      offer = find_offer_by_condition_and_channel(offers, 'new', 'Amazon')
+      return [offer, true] if offer
 
-      if amazon_new
-        [amazon_new, true]
-      elsif non_amazon_new
-        [non_amazon_new, false]
-      else
-        [nil, nil]
-      end
+      offer = find_offer_by_condition_and_channel(offers, 'new', 'Merchant')
+      return [offer, false] if offer
+
+      [nil, nil]
+    end
+
+    def find_offer_by_condition_and_channel(offers, condition, channel)
+      offers&.find { |offer| offer['condition'] == condition && offer['fulfillmentChannel'] == channel }
     end
 
     def update_product_price(offer, is_prime)

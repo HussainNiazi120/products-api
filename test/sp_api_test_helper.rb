@@ -48,6 +48,16 @@ module SpApiTestHelper
       .to_return(status: 200, body: show_data.to_json, headers: {})
   end
 
+  def stub_show_request_with_no_offers
+    show_file = File.read(Rails.root.join('test', 'fixtures', 'files', 'sample_pricing_unavailable.json'))
+    show_data = JSON.parse(show_file)
+
+    stub_autohrization_request
+
+    stub_request(:get, 'https://sellingpartnerapi-na.amazon.com/products/pricing/v0/items/B0932QJ2JZ/offers?ItemCondition=New&MarketplaceId=ATVPDKIKX0DER')
+      .to_return(status: 200, body: show_data.to_json, headers: {})
+  end
+
   def stub_parent_product_request
     show_file = File.read(Rails.root.join('test', 'fixtures', 'files', 'sample_parent_product.json'))
     show_data = JSON.parse(show_file)
