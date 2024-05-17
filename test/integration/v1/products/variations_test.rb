@@ -89,5 +89,16 @@ module Products
       assert_equal 30, Product.where(parent_asin: parent_product.asin).size
       assert_equal 30, response.parsed_body.count
     end
+
+    test 'return 404 when product does not exist in database' do
+      stub_parent_product_request
+
+      perform_request('XXX')
+
+      assert_response :not_found
+
+      res = response.parsed_body
+      assert_equal 'Product with asin: XXX not found', res['error']
+    end
   end
 end

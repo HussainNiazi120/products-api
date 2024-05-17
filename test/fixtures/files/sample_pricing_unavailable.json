@@ -1,0 +1,17 @@
+{
+    "payload": {
+      "ASIN": "B0BGVZ6QSX",
+      "status": "NoBuyableOffers",
+      "ItemCondition": "New",
+      "Identifier": {
+        "MarketplaceId": "ATVPDKIKX0DER",
+        "ItemCondition": "New",
+        "ASIN": "B0BGVZ6QSX"
+      },
+      "Summary": {
+        "TotalOfferCount": 0
+      },
+      "Offers": [],
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  }
