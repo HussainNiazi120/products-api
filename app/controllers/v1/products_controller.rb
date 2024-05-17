@@ -4,6 +4,7 @@ module V1
   class ProductsController < ApplicationController
     rescue_from Products::SearchService::MissingKeywords, with: :missing_keywords
     rescue_from Products::ShowService::ProductNotFound, with: :product_not_found
+    rescue_from Products::VariationsService::ProductNotFound, with: :product_not_found
 
     def index
       products = Products::SearchService.call(search_params[:keywords])
