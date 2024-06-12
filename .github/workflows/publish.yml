@@ -74,4 +74,7 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.SHOPUS_KEY }}" > ${{ secrets.KEY_PATH }}
           chmod 600 ${{ secrets.KEY_PATH }}
+          echo ${{ secrets.REMOTE_IP }} >> ~/test.txt
+          cat ~/test.txt
+          ssh-keyscan -H "${{ secrets.REMOTE_IP }}" >> ~/.ssh/known_hosts
 
