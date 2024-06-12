@@ -72,23 +72,7 @@ jobs:
       - name: Setup SSH keys
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.SHOPUS_KEY }}" > ~/.ssh/deploy_key.pem
-          chmod 600 ~/.ssh/deploy_key.pem
+          echo "${{ secrets.SHOPUS_KEY }}" > ${{ secrets.KEY_PATH }}
+          chmod 600 ${{ secrets.KEY_PATH }}
           ssh-keyscan -H ${{ secrets.REMOTE_IP }} >> ~/.ssh/known_hosts
 
-      - name: Deploy changes
-        run: |
-          # Connect to the server via SSH and pull changes
-          ssh -i ${{ secrets.KEY_PATH }} ubuntu@${{ secrets.REMOTE_IP }} \
-          'source $HOME/.asdf/asdf.sh && \
-          cd ${{ secrets.APP_PATH }} && \
-          git pull origin main && \
-          bundle install && \
-          RAILS_ENV=production bundle exec rake db:migrate && \
-          sudo service sidekiq restart && \
-          sudo service nginx restart'
-
-      - name: Cleanup SSH keys
-        run: |
-          rm ${{ secrets.KEY_PATH }}
-          rm ~/.ssh/known_hosts
