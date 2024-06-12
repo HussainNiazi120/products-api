@@ -21,4 +21,13 @@ Postgresql
 Redis
 
 ## Configuration
-Update refresh_token, client_id, client_secret, aws_access_key_id and aws_secret_access_key values in config/credentials/ with your working Amzazon SP API credentials
+Update config/credentials/ to include Amzazon SP API credentials configuration like:-
+
+```yaml
+amazon_sp_api:
+  refresh_token: "XXX"
+  client_id: "XXX"
+  client_secret: "XXX"
+  aws_access_key_id: "XXX"
+  aws_secret_access_key: "XXX"
+```
